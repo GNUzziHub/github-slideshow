@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hey, Bro, this is a git. fight me.
 Use the left arrow to go back!
